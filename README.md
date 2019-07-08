@@ -1,5 +1,6 @@
 # Athena
 Dobrodošli na repozitorij projekta Athena.
+Detaljnu projektnu i tehničku dokumentaciju je moguće naći u folderu [Dokumentacija](https://github.com/ivanorsolic/AthenaApp/tree/master/Documentation)
 
 | Dokument  | Opis |
 | ------------- | ------------- |
